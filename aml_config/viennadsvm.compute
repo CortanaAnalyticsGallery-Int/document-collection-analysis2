@@ -1,0 +1,7 @@
+address: 52.167.215.177
+baseDockerImage: microsoft/mmlspark:plus-0.7.dev7_2.gcfbc920
+nativeSharedDirectory: ~/.azureml/share/
+password: AzureMlSecret=viennadsvm#ke#2c5ae29bcf564a30ac48f839101ef1aa
+sharedVolumes: true
+type: remotedocker
+username: ke

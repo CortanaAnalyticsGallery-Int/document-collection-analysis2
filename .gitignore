@@ -1,0 +1,8 @@
+.azuremlhistory_git
+azureml-logs
+__pycache__
+.azureml
+.ipynb_checkpoints
+.vscode
+aml_config
+Data/*
